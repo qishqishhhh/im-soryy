@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', () => {
   const apologyTitle = apologyCard.querySelector('h1');
   apologyTitle.textContent = `${nickname}, aku minta maaf 🥺💖`;
 
-  apologyText.innerHTML = `Aku gak bermaksud bikin kamu kesel.<br>Maafin aku, ya? 😢`;
+  apologyText.innerHTML = `Aku gak bermaksud bikin kamu kesel cantik.<br>Maafin aku, ya I love uuu? 😢`;
 });
 
 // Tombol "Enggak 😠"
